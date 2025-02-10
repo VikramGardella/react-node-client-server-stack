@@ -1,4 +1,4 @@
-# Node.js + Express.js + React.js Authentication System
+# Authentication System Template (Node.js + Express.js + React.js) 
 
 ## Overview
 This project is a full-stack authentication system built with:
