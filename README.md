@@ -1,4 +1,4 @@
-# Full-Stack Authentication System
+# Node.js + Express.js + React.js Authentication System
 
 ## Overview
 This project is a full-stack authentication system built with:
